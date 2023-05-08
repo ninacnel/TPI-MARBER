@@ -22,3 +22,5 @@ const BeerCard = () => {
 };
 
 export default BeerCard;
+
+//ni siquiera se usa este comp
