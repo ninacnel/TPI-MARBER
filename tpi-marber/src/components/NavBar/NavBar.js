@@ -43,7 +43,7 @@ const NavBar = () => {
           </ul>
         </div>
         <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-          <button class="btn btn-primary me-md-2" type="button">
+          <button class="btn btn-secondary me-md-2" type="button">
             Log in
           </button>
           <button class="btn btn-primary" type="button">
