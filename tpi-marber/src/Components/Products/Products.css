@@ -1,0 +1,13 @@
+.card-beer {
+  display: inline-flex;
+  width: 300px;
+}
+
+.card-footer {
+  display: block;
+  justify-content: center;
+}
+
+h4 {
+  margin: auto;
+}
